@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://currency-convertor.nfgprojects.in/sitemap.xml
